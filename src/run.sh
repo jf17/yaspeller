@@ -1,0 +1,1 @@
+sudo docker run -v /home/Docker/yaspeller/work:/work jf17/yaspeller
