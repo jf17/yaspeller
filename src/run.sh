@@ -1,1 +1,2 @@
-sudo docker run -v /home/Docker/yaspeller/work:/work jf17/yaspeller
+#!/bin/bash
+sudo docker run -v $1:/work jf17/yaspeller
