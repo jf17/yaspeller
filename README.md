@@ -7,5 +7,5 @@
 
 
 ## Using CLI
-`./run.sh <file-or-directory>`
+`./run.sh <directory>`
 
